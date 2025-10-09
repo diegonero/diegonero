@@ -8,8 +8,12 @@ Me chamo Diego Nero estudante de Análise e Desenvolvimento de Sistemas, com foc
 [![](https://img.shields.io/badge/@diegonero-100000?style=flat&logo=github&logoColor=white)](https://github.com/diegonero)
 <br/>
 <br/>
+<div>
+    <a href = "mailto:diegonero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ### 🤖 Languages ​​and Technologies
+
 <br/>
 
 <img 

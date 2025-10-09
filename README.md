@@ -1,6 +1,6 @@
 
 # 👨‍💻 Diego Nero 
-**Desenvolvevedor FullStack**
+**Desenvolvedor FullStack**
 
 Me chamo Diego Nero estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Front-End. Gosto de transformar ideias em soluções visuais, unindo criatividade e código. Atualmente estou aperfeiçoando meus conhecimentos em HTML, CSS e JavaScript, e construindo projetos pessoais para evoluir na prática. 
 
